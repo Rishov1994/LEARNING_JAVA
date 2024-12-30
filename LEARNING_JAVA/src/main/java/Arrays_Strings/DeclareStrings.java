@@ -8,6 +8,8 @@ public class DeclareStrings {
         empty = myname + " Bhattacharjee";
 
         System.out.println("Full name is: " +empty);
+        System.out.println("Thanks");
+
 
     }
 }

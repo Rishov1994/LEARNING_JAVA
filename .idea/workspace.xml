@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63a21591-ace2-4e29-ba6a-3ddd30f04893" name="Changes" comment="Adding New Program">
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/Arrays_Strings/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/Arrays_Strings/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/Arrays_Strings/VowelsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/StartJava/AreaOfCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/StartJava/AverageOfNos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/StartJava/DataTypeRanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/StartJava/EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/StartJava/InRangeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/StartJava/P1_Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/StartJava/Rectangle_Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/StartJava/Square_Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/StartJava/Swap_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/StartJava/TrainerName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/StartJava/VowelOrConsonant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/Arrays_Strings/DeclareStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/LEARNING_JAVA/src/main/java/Arrays_Strings/DeclareStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Arrays_Strings/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Arrays_Strings/ReverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Arrays_Strings/VowelsInString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StartJava/AreaOfCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StartJava/AverageOfNos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StartJava/DataTypeRanges.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StartJava/EvenOrOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StartJava/InRangeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StartJava/P1_Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StartJava/Rectangle_Operations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StartJava/Square_Operations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StartJava/Swap_Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StartJava/TrainerName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StartJava/VowelOrConsonant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2qwUNow89RCAMV8G6m2FtCAhHuf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.DeclareStrings.executor": "Run",
+    "Application.InRangeNumber.executor": "Run",
+    "Application.Square_Operations.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Rishov__Inputs",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/RISHOV_PROGRAMMING/JAVA_PROG"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63a21591-ace2-4e29-ba6a-3ddd30f04893" name="Changes" comment="" />
+      <created>1735573095554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735573095554</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Adding New Program">
+      <option name="closed" value="true" />
+      <created>1735574941828</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735574941828</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Adding New Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding New Program" />
+  </component>
+</project>
