@@ -14,7 +14,7 @@ public class InRangeNumber {
             System.out.println("The Number is within Range");
         }
         else {
-            System.out.println("The Number is Not wihtin Range");
+            System.out.println("The Number is not wihtin Range");
         }
 
     }}
